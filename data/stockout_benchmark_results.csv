@@ -1,0 +1,28 @@
+query_id,query,category,target_product_id,partner_available,mode,target_recovered,target_rank,target_mrr,any_exact_hit,any_exact_mrr,partner_recovery,orchestration_triggered,latency_ms
+5671,"I want a lightweight, portable laptop that fits in with my other electrical products.",laptop,B08CY3X4Y1,1,baseline,0,,0.0,0,0.0,0,0,10.134669952094555
+5671,"I want a lightweight, portable laptop that fits in with my other electrical products.",laptop,B08CY3X4Y1,1,optimized,0,,0.0,0,0.0,0,0,21.266389056108892
+5671,"I want a lightweight, portable laptop that fits in with my other electrical products.",laptop,B08CY3X4Y1,1,orchestrated,1,1.0,1.0,1,1.0,1,1,13.96619703155011
+24117,cd external drive for laptop,laptop,B07K74YSQN,1,baseline,0,,0.0,0,0.0,0,0,9.11844300571829
+24117,cd external drive for laptop,laptop,B07K74YSQN,1,optimized,0,,0.0,0,0.0,0,0,22.836302989162505
+24117,cd external drive for laptop,laptop,B07K74YSQN,1,orchestrated,1,1.0,1.0,1,1.0,1,1,10.34421008080244
+33153,diesel on smartwatch,watch,B083TH8VR6,1,baseline,0,,0.0,1,0.2,0,0,8.662809035740793
+33153,diesel on smartwatch,watch,B083TH8VR6,1,optimized,0,,0.0,0,0.0,0,0,10.947748902253807
+33153,diesel on smartwatch,watch,B083TH8VR6,1,orchestrated,1,1.0,1.0,1,1.0,1,1,12.26687605958432
+41067,flash drive for iphone for photos,phone,B074G17N36,0,baseline,0,,0.0,0,0.0,0,0,8.433738956227899
+41067,flash drive for iphone for photos,phone,B074G17N36,0,optimized,0,,0.0,0,0.0,0,0,17.181987990625203
+41067,flash drive for iphone for photos,phone,B074G17N36,0,orchestrated,0,,0.0,0,0.0,0,1,12.092974036931992
+44262,gaming laptop 6gb graphics card,laptop,B077QXGF6R,0,baseline,0,,0.0,0,0.0,0,0,8.37579695507884
+44262,gaming laptop 6gb graphics card,laptop,B077QXGF6R,0,optimized,0,,0.0,0,0.0,0,0,17.030887072905898
+44262,gaming laptop 6gb graphics card,laptop,B077QXGF6R,0,orchestrated,0,,0.0,0,0.0,0,1,15.707246959209442
+52449,i phone xs small lens,phone,B07888CSJX,0,baseline,0,,0.0,0,0.0,0,0,8.726545958779752
+52449,i phone xs small lens,phone,B07888CSJX,0,optimized,0,,0.0,0,0.0,0,0,17.61858898680657
+52449,i phone xs small lens,phone,B07888CSJX,0,orchestrated,0,,0.0,0,0.0,0,1,12.781799887306988
+59930,laptop gold,laptop,B083CYM3TZ,1,baseline,0,,0.0,1,0.5,0,0,8.466911036521196
+59930,laptop gold,laptop,B083CYM3TZ,1,optimized,0,,0.0,1,0.5,0,0,19.838279928080738
+59930,laptop gold,laptop,B083CYM3TZ,1,orchestrated,1,1.0,1.0,1,1.0,1,1,17.302664928138256
+74999,obd2 scanner bluetooth ios iphone,phone,B078K54MT5,1,baseline,0,,0.0,1,1.0,0,0,8.381207007914782
+74999,obd2 scanner bluetooth ios iphone,phone,B078K54MT5,1,optimized,0,,0.0,1,1.0,0,0,10.441855993121862
+74999,obd2 scanner bluetooth ios iphone,phone,B078K54MT5,1,orchestrated,1,1.0,1.0,1,1.0,1,1,12.15740607585758
+90118,samsung galaxy s10e factory unlocked phone with,phone,B07N4M495N,1,baseline,0,,0.0,1,1.0,0,0,8.503781980834901
+90118,samsung galaxy s10e factory unlocked phone with,phone,B07N4M495N,1,optimized,0,,0.0,1,1.0,0,0,11.463657021522522
+90118,samsung galaxy s10e factory unlocked phone with,phone,B07N4M495N,1,orchestrated,1,1.0,1.0,1,1.0,1,1,12.939709005877376

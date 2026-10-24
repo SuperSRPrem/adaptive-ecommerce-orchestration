@@ -1,0 +1,7 @@
+category,mode,cases,substitute_hit_at_5,substitute_mrr,avg_substitutes,latency_ms
+laptop,baseline,1,100.0,1.0,3.0,14.847929938696325
+laptop,optimized,1,100.0,1.0,3.0,24.719621054828167
+laptop,orchestrated,1,100.0,1.0,3.0,21.66509989183396
+watch,baseline,2,50.0,0.16666666666666666,0.5,16.049992002081126
+watch,optimized,2,50.0,0.16666666666666666,0.5,30.374206020496786
+watch,orchestrated,2,50.0,0.125,0.5,27.46176451910287
