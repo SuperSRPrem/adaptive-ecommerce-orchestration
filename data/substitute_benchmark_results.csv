@@ -1,0 +1,10 @@
+query_id,query,category,target_id,mode,substitute_hit_at_5,substitute_rank,substitute_mrr,substitute_count,partner_substitute_hit,partner_substitute_count,orchestration_triggered,latency_ms
+81819,polar fitness watch,watch,B07SZ8RF47,baseline,0,,0.0,0,0,0,0,18.45980202779174
+81819,polar fitness watch,watch,B07SZ8RF47,optimized,0,,0.0,0,0,0,0,37.394986022263765
+81819,polar fitness watch,watch,B07SZ8RF47,orchestrated,0,,0.0,0,0,0,1,31.74481203313917
+90174,samsung galaxy watch 46 mm,watch,B07P5JSCMZ,baseline,1,3.0,0.3333333333333333,1,0,0,0,13.640181976370513
+90174,samsung galaxy watch 46 mm,watch,B07P5JSCMZ,optimized,1,3.0,0.3333333333333333,1,0,0,0,23.353426018729806
+90174,samsung galaxy watch 46 mm,watch,B07P5JSCMZ,orchestrated,1,4.0,0.25,1,0,0,1,23.178717005066574
+114673,y740 legion 15 inch gaming laptop,laptop,B082MV4KTG,baseline,1,1.0,1.0,3,0,0,0,14.847929938696325
+114673,y740 legion 15 inch gaming laptop,laptop,B082MV4KTG,optimized,1,1.0,1.0,3,0,0,0,24.719621054828167
+114673,y740 legion 15 inch gaming laptop,laptop,B082MV4KTG,orchestrated,1,1.0,1.0,3,0,0,1,21.66509989183396
